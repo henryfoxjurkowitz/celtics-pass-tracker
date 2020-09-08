@@ -8,4 +8,4 @@ How to run:
 Type "java Main" into the command line, again ensuring that you are in that same directory.
 
 How to use:
-Follow the instructions that the program explains to learn about in-depth passing statistics for the Boston Celtics!
+Follow the program's instructions to learn about in-depth passing statistics for the Boston Celtics!
